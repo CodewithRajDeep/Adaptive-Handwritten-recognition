@@ -1,1 +1,4 @@
-{}
+{
+  "c3.sourceOfTruth": "client",
+  "c3.removeDiffFiles": false
+}
